@@ -5,9 +5,16 @@
       <link>https://supabase.com</link>
       <description>Latest news from Supabase</description>
       <language>en</language>
-      <lastBuildDate>Fri, 31 Mar 2023 22:10:00 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 06 Apr 2023 22:10:00 +0000</lastBuildDate>
       <atom:link href="https://supabase.com/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+  <guid>https://supabase.com/blog/infinite-scroll-with-supabase</guid>
+  <title>Infinite scroll with NextJs, Supabase and Framer Motion</title>
+  <link>https://supabase.com/blog/infinite-scroll-with-supabase</link>
+  <description>Lazy load and paginate data on scroll with supabase-js and a sprinkle of Framer Motion magic ✨</description>
+  <pubDate>Thu, 06 Apr 2023 22:10:00 +0000</pubDate>
+</item>
+<item>
   <guid>https://supabase.com/blog/supaclub</guid>
   <title>SupaClub</title>
   <link>https://supabase.com/blog/supaclub</link>
